@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.title {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+img {
+  margin-top: 5rem;
+}
+
+:root {
+  height: 100vh;
+  background-color: rgba(228, 107, 36);
+}
+
+/* .sign-up-button {
+  padding: 0.5rem 3rem;
+  font-size:  18px;
+  border-radius: 0.25em;
+  border: 0;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.473);
+}
+
+.sign-up-button:hover {
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.473);
+  cursor: pointer;
+  transition: all ease-in 0.2s;
+  z-index: 1;
+} */
+.form-style h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.form-style {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 2rem;
+  border-radius: 0.5em;
+  background-color: #fff;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.473);
+  text-align: center;
+  margin: 0rem 12rem 5rem 12rem ;
+}
